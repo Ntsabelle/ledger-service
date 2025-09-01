@@ -10,6 +10,8 @@ Spring Boot 2.7.18
 Spring Data JPA
 
 H2 Database
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
 
 Maven
 
